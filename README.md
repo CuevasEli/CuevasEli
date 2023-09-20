@@ -1,80 +1,84 @@
+<div align="center">
 
-<h1>Hi There</a>  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px"></h1>
+# Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-  
+</div>
 
-I'm **Elizabeth Cuevas**, a **Data Scientist**, graduated in **2023** from **Le Wagon** in **Data Science** stream.
+I'm **Elizabeth Cuevas**, a **Data Scientist**, who graduated in **2023** from **Le Wagon** in **Data Science** stream. Here's a glimpse of my skill set:
 
-  
+---
 
-## Skill Set
-  
-**Programming Languages**
+### 
+🛠
+ Programming Languages
 
-  
+<div align="center">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40px"/> &nbsp;&nbsp;
+</div>
 
-<img  title="Python"  alt="Python"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"  />
+---
 
-___________________________________________________________________________
+### 
+📚
+ Libraries and Frameworks
 
-  
+<div align="center">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40px"/> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="Keras" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="Scikit Learn" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" width="40px"/> &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40px"/> &nbsp;&nbsp;
+<img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY=w480-h960-rw" alt="Beautiful Soup" width="40px"/>
+</div>
 
-**Libraries and Frameworks**
+---
 
-  
+### 
+☁️
+ Cloud Platforms
 
-<img  title="TensorFlow"  alt="TensorFlow"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img  title="Keras"  alt="Keras"  width="40px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img  title="Scikit-Learn"  alt="Scikit Learn"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img  title="Docker"  alt="Docker"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img  title="Selenium"  alt="Selenium"  width="40px"  src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+<div align="center">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png" alt="Azure" width="40px"/> &nbsp;&nbsp; 
+<!-- Note: This icon needs to be changed to Azure's if you want Azure. For now, I've put Google's -->
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40px"/>
+</div>
 
-  
-___________________________________________________________________________
+---
 
+### 
+📂
+ Databases
 
-**Cloud**
+<div align="center">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" alt="SQLite3" width="40px"/>
+</div>
 
-  
+---
 
-<img  title="Azure"  alt="Azure"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png">|<img  title="Heroku"  alt="Heroku"  width="40px"  src="https://img.icons8.com/color/48/000000/heroku.png">
+### 🧰 Tools
 
-___________________________________________________________________________
+<div align="center">
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" width="40px"/> &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" width="40px"/> 
+</div>
 
-  
+---
 
-**Databases**
-
-  
-
-<img  title="SQL"  alt="SQL"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img  title="MongoDB"  alt="MongoDB"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"><br>
-
-___________________________________________________________________________
-
-  
-
-**Tools**
-
-  
-
-<img  title="VS Code"  alt="VS Code"  width="40px"  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img  title="git"  alt="git"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img  title="Jupyter Notebook"  alt="Jupyter"  width="40px"  src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-
-___________________________________________________________________________
-
-<br>
-
-  
-
-  
+<div align="center">
 
 ## Let's Connect :handshake:
 
-  
-
 <a href="https://www.linkedin.com/in/elizabethandreacuevasrumbos/">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
-</a> |
+</a> 
 <a href="mailto:elizabethcuevasrumbos@gmail.com">
   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" width="40">
-</a> |
+</a> 
 <a href="https://www.kaggle.com/elizabethcuevas">
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40">
 </a>
 
-
+</div>
