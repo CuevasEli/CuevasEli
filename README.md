@@ -14,7 +14,9 @@ I'm **Elizabeth Cuevas**, a **Data Scientist**, who graduated in **2023** from *
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40px"/> &nbsp;&nbsp;
+<img src="https://www.logiciels.pro/wp-content/uploads/2021/05/stata-avis-prix-alternatives-logiciel.webp" alt="Python" width="40px"/> &nbsp;&nbsp;
 </div>
+
 
 ---
 
@@ -38,7 +40,7 @@ I'm **Elizabeth Cuevas**, a **Data Scientist**, who graduated in **2023** from *
  Cloud Platforms
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png" alt="Azure" width="40px"/> &nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png" alt="gcloud" width="40px"/> &nbsp;&nbsp; 
 <!-- Note: This icon needs to be changed to Azure's if you want Azure. For now, I've put Google's -->
 <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40px"/>
 </div>
