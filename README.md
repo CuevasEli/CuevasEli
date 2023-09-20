@@ -57,7 +57,7 @@ I'm **Elizabeth Cuevas**, a **Data Scientist**, who graduated in **2023** from *
 
 ---
 
-### 🧰 Tools
+🧰 Tools
 
 <div align="center">
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40px"/> &nbsp;&nbsp;
